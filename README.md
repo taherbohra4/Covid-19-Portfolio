@@ -1,2 +1,3 @@
-# Covid-19-Portfolio
-Website : About Covid 19 &amp; Covid7 Management  System
+# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+COVID-19 with HTML5, CSS3 and JavaScript
+by TAHER Radiowala
